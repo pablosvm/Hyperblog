@@ -1,5 +1,10 @@
  Esta es la historia de Pablo inciciando en el mundo de la programacion
 
- tengo 38 años y soy de mendoza
+ tengo 38 años y soy de mendoza, actualmente vivo en guaymallen.
 
  hoy hablaremos de su historia. me gustaria dedicarme a la programacion ya que me apasiona
+
+ Ahora estoy aprendiendo GIT  
+
+ saludos
+ 
